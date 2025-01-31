@@ -1,0 +1,9 @@
+Assignment Submission Materials:
+1. The PDF file that contains the screenshots explained below: 
+Use MS-Word to collect all the assignment images (screenshots), 
+put and arrange them all in one professional document then convert it to a PDF file to be uploaded/submitted. 
+Please consider the following screenshots (images): 
+The folder structure inside IntelliJ IDEA/Visual Studio Code or any other Editor that you are using that shows the 2 listed files above
+The VS Code embedded terminal window that shows the current working directory (the path of your folder) 
+The PDF file should prepared in a professional way with a cove page
+2. The link to your GitHub repository where you have your assignment (project) uploaded
