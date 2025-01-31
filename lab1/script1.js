@@ -1,5 +1,5 @@
 // Create a new text file that contains a paragraph of any contents (6 to 8 lines)
-//  ./lab1/test.txt
+//  "./lab1/test.txt"
 
 // Import the non-blocking method from fs
 const { readFile } = require("node:fs");
